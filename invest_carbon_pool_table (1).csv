@@ -1,0 +1,11 @@
+lucode,LULC_name,Vegetation_type,Latitude,Longitude,C_above (Mg C/ha),C_below (Mg C/ha),C_soil (Mg C/ha),C_dead (Mg C/ha),C_total (Mg C/ha),NEP_mean (g C/m²/yr),NPP_mean (g C/m²/yr),GPP_mean (g C/m²/yr)
+ALF,Ailao Mountain,Subtropical,24.55,101.02,182.12,60.71,293.84,0.5,537.17,299.43,505.62,1481.17
+BJF,Beijing,Warm Temperate,39.95,115.41,44.45,14.82,42.4,0.06,101.72,266.61,394.59,702.97
+BNF,Xishuangbanna,Tropical,21.95,101.2,121.05,40.35,98.96,0.5,260.86,265.41,908.06,2758.31
+CBF,Changbai Mountain,Temperate,42.4,128.09,33.73,11.24,89.03,0.5,134.5,313.7,454.56,961.0
+DHF,Dinghu Mountain,Subtropical,23.18,112.54,101.38,33.79,95.39,0.5,231.07,233.12,640.98,1776.59
+HSF,Heshan,Subtropical,22.67,112.88,40.73,13.58,90.78,0.5,145.58,303.22,403.46,936.86
+HTF,Huitong,Subtropical,26.85,109.6,96.9,32.3,78.08,0.5,207.77,234.14,499.35,1095.49
+MXF,Maoxian,Warm Temperate,31.7,103.9,24.85,8.28,148.18,0.5,181.81,368.43,597.44,888.01
+QYF,Qianyanzhou,Subtropical,26.73,115.07,48.95,16.32,67.44,0.5,133.2,467.89,779.41,1945.47
+SNF,Shennongjia,Subtropical,31.32,110.49,79.42,26.47,134.24,0.5,240.63,353.05,924.64,1400.87
